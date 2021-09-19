@@ -11,7 +11,7 @@ define("DB_USERNAME", "root");
 //define("DB_USERNAME", "root");
 
 //conraseña del usuario de base de datos
-define("DB_PASSWORD", "root");
+define("DB_PASSWORD", "");
 //define("DB_PASSWORD", "root");
 
 //codificacion de caracteres
